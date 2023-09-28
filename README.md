@@ -69,3 +69,9 @@ With this, we can see a third entity has made itself visible: *Contact*. From th
 - *"As a customer, so I can receive my tickets, I want to provide my contact information."*
 - *"As a customer, so I can decide which movie I want to watch, I want to see a list of movies."*
 - *"As an admin, so I can manage the movies shown at the cinema, I want to update the list of movies."*
+- *"As an admin, so I can know who and how many went to the cinema, I want to keep a record of customers and the tickets they purchase."*
+- *"As an admin, so I can expand my cinema, I want to add more screens."*
+- *"As a customer, so I can share my opinion, I want to rate or review a movie I've watched."*
+- *""As a customer, so I can make an informed decision, I want to see additional information about a movie (like director, cast, and duration)."*
+- *"As a customer, so I can complete my booking, I want to make an online payment for the tickets."*
+- *"As a customer, so I can plan my day, I want to see the available showtimes for each movie."*
